@@ -1,0 +1,142 @@
+const yogaAsanas = [
+  {
+    id: 1,
+    name: 'Mountain Pose (Tadasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Improves posture, balance, and body awareness. Strengthens thighs, knees, and ankles.',
+    difficulty: 'Beginner'
+  },
+  {
+    id: 2,
+    name: 'Tree Pose (Vrksasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Enhances balance, strengthens leg muscles, and improves concentration.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 3,
+    name: 'Warrior I (Virabhadrasana I)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens legs, opens hips, and builds core stability.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 4,
+    name: 'Downward Facing Dog (Adho Mukha Svanasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Stretches entire body, strengthens arms and legs, reduces stress.',
+    difficulty: 'Beginner'
+  },
+  {
+    id: 5,
+    name: 'Child\'s Pose (Balasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Relaxes the body, stretches back, hips, and thighs, calms the mind.',
+    difficulty: 'Beginner'
+  },
+  {
+    id: 6,
+    name: 'Cobra Pose (Bhujangasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens spine, opens chest, improves posture, and stimulates abdominal organs.',
+    difficulty: 'Beginner'
+  },
+  {
+    id: 7,
+    name: 'Triangle Pose (Trikonasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Stretches legs, strengthens core, improves balance and concentration.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 8,
+    name: 'Bridge Pose (Setu Bandha Sarvangasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens back, opens chest, improves spine flexibility.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 9,
+    name: 'Corpse Pose (Savasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Complete relaxation, reduces stress, helps mental recovery.',
+    difficulty: 'All Levels'
+  },
+  {
+    id: 10,
+    name: 'Cat-Cow Pose (Marjaryasana-Bitilasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Improves spine flexibility, releases tension in back and neck.',
+    difficulty: 'Beginner'
+  },
+  {
+    id: 11,
+    name: 'Seated Forward Bend (Paschimottanasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Stretches hamstrings, calms mind, reduces anxiety.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 12,
+    name: 'Plank Pose (Phalakasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens core, arms, and wrists. Improves overall body strength.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 13,
+    name: 'Warrior II (Virabhadrasana II)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens legs, opens hips, improves concentration and balance.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 14,
+    name: 'Happy Baby Pose (Ananda Balasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Releases lower back tension, stretches inner groin, calms the mind.',
+    difficulty: 'Beginner'
+  },
+  {
+    id: 15,
+    name: 'Pigeon Pose (Eka Pada Rajakapotasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Deep hip opener, releases emotional tension, stretches lower body.',
+    difficulty: 'Advanced'
+  },
+  {
+    id: 16,
+    name: 'Extended Side Angle Pose (Utthita Parsvakonasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens and stretches legs, opens side body, improves balance.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 17,
+    name: 'Chair Pose (Utkatasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens thighs, builds heat in the body, improves core strength.',
+    difficulty: 'Intermediate'
+  },
+  {
+    id: 18,
+    name: 'Boat Pose (Navasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Strengthens core, improves balance, tones abdominal muscles.',
+    difficulty: 'Advanced'
+  },
+  {
+    id: 19,
+    name: 'Headstand (Sirsasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Improves focus, strengthens upper body, reverses blood flow.',
+    difficulty: 'Advanced'
+  },
+  {
+    id: 20,
+    name: 'Shoulder Stand (Sarvangasana)',
+    image: '/api/placeholder/300/400',
+    benefits: 'Stimulates thyroid, improves circulation, calms the brain.',
+    difficulty: 'Advanced'
+  }
+];
